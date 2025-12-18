@@ -34,7 +34,7 @@ No data is sent anywhere — fully private.
 # 🌟 Preview
 <!-- video -->
  🎥 **Demo Video**  
-[Click here to watch the demo](./video/Ever%20tired%20of%20endless%20scrolling%20through%20long%20chats.mp4)
+[Click here to watch the demo](https://www.linkedin.com/posts/tushar-suryawanshi-599806299_productivity-aitools-geminiai-activity-7406256091577253889-ENkC)
 
 ---
 
