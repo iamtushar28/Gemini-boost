@@ -32,7 +32,7 @@ No data is sent anywhere — fully private.
 ---
 
 # 🌟 Preview
-
+<!-- video -->
   <video controls width="600">
     <source src="./video/Ever tired of endless scrolling through long chats.mp4" type="video/mp4">
     Your browser does not support the video tag.
