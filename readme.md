@@ -33,48 +33,10 @@ No data is sent anywhere — fully private.
 
 # 🌟 Preview
 
-Below are the primary UI features of the extension.  
-(Replace the image placeholders with actual screenshots.)
-
----
-
-## **1️⃣ Chats Panel Preview**
-
-Shows all user messages collected from Gemini:
-
-Features: 
-- Messages appear instantly  
-- Long messages collapse gracefully  
-- Click a message to scroll to its location in the chat  
-
-<img src="./images/chat.webp" alt="chat pannel"/>
-
----
-
-## **2️⃣ Search Function Preview**
-
-The search bar allows instant filtering:
-
-Features:
-- Search updates instantly  
-- Clear (✕) button included  
-- Case-insensitive smart match 
-
-<img src="./images/search.webp" alt="chat pannel"/>
-
----
-
-## **3️⃣ Light Mode Preview**
-
-The extension panel automatically adapts to Gemini Light Mode:
-
-
-UI adjusts styling so:
-- Text contrast remains readable  
-- Borders and backgrounds soften  
-- Search bar blends into the theme  
-
-<img src="./images/lightchat.webp" alt="chat pannel"/>
+  <video controls width="600">
+    <source src="./video/Ever tired of endless scrolling through long chats.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video
 
 ---
 
